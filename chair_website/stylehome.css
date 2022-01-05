@@ -1,0 +1,303 @@
+.group-13 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+  }
+  
+  .group-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 258px;
+    justify-content: center;
+    margin-right: 0;
+    min-width: 1942px;
+  }
+  
+  .overlap-group2 {
+    align-items: flex-end;
+    background-color: var(--white);
+    display: flex;
+    height: 259px;
+    margin-top: -0.5px;
+    min-width: 1943px;
+    padding: 59.5px 88.5px;
+  }
+  
+  .icons8-home {
+    height: 132px;
+    object-fit: cover;
+    width: 132px;
+  }
+  
+  .ddqn-team {
+    align-self: center;
+    height: 123px;
+    letter-spacing: 0;
+    line-height: 100px;
+    margin-bottom: 1.35px;
+    margin-left: 122px;
+    text-align: center;
+    width: 1257px;
+  }
+  
+  .icons8-menu {
+    cursor: pointer;
+    height: 132px;
+    margin-left: 120px;
+    object-fit: cover;
+    width: 132px;
+  }
+  
+  .title {
+    letter-spacing: 0;
+    line-height: 200px;
+    margin-left: 24.0px;
+    margin-top: 572px;
+    min-height: 327px;
+    min-width: 1594px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .ai {
+    letter-spacing: 0;
+    line-height: 300px;
+    margin-left: 615.51px;
+    margin-top: 98px;
+    min-height: 302px;
+    min-width: 302px;
+    text-align: center;
+    transform: rotate(3.00deg);
+    white-space: nowrap;
+  }
+  
+  .group-2 {
+    align-items: flex-end;
+    background-color: var(--concrete);
+    display: flex;
+    flex-direction: column;
+    margin-left: 28.0px;
+    margin-top: 945px;
+    min-height: 1219px;
+    padding: 89.5px 20.5px;
+    width: 1813px;
+  }
+  
+  .the-first-wealth-is-health {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 168px;
+    margin-left: 2.0px;
+    margin-top: 59px;
+    min-height: 204px;
+    min-width: 1660px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .flex-row {
+    align-items: flex-end;
+    display: flex;
+    margin-top: 241px;
+    min-width: 1658px;
+  }
+  
+  .x91-fa-mz-ikel {
+    cursor: pointer;
+    height: 536px;
+    object-fit: cover;
+    width: 536px;
+  }
+  
+  .more-container {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8.96px;
+    margin-left: 94px;
+    min-height: 434px;
+    width: 1028px;
+  }
+  
+  .our-product-is-more {
+    letter-spacing: 0;
+    line-height: 57px;
+    margin-right: 0;
+    min-height: 206px;
+    width: 1028px;
+  }
+  
+  .discovery-more {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 47px;
+    margin-top: 163px;
+    min-height: 65px;
+    min-width: 387px;
+    white-space: nowrap;
+  }
+  
+  .group-3 {
+    align-items: center;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-right: 0;
+    margin-top: 313px;
+    min-height: 1355px;
+    padding: 0.0px 0;
+    width: 1920px;
+  }
+  
+  .overlap-group {
+    align-items: flex-end;
+    background-image: url(path-1-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 270px;
+    min-width: 1920px;
+    padding: 87.2px 534.5px;
+  }
+  
+  .artificial-intelligence-application {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 56px;
+    min-height: 76px;
+    min-width: 790px;
+    white-space: nowrap;
+  }
+  
+  .overlap-group1 {
+    height: 964px;
+    margin-left: 2.1px;
+    margin-top: 121px;
+    position: relative;
+    width: 1675px;
+  }
+  
+  .rectangle-1 {
+    height: 942px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 21px;
+    width: 1675px;
+  }
+  
+  .ai-will-change-the-b {
+    left: 308px;
+    letter-spacing: 0;
+    line-height: 53px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .learn-more {
+    cursor: pointer;
+    height: 74px;
+    left: 1347px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    text-decoration: underline;
+    top: 658px;
+    transform: rotate(270.00deg);
+    width: 341px;
+  }
+  
+  .group-4 {
+    align-items: flex-end;
+    display: flex;
+    height: 456px;
+    margin-left: 22.0px;
+    margin-top: 314px;
+    min-width: 1721px;
+    padding: 0.0px 0;
+  }
+  
+  .screenshot-2022-01-03-204033 {
+    height: 128px;
+    margin-bottom: 19.44px;
+    object-fit: cover;
+    width: 394px;
+  }
+  
+  .flex-col {
+    align-items: center;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 108px;
+    margin-top: 3.1px;
+    min-height: 437px;
+    width: 718px;
+  }
+  
+  .thank-for-suport-us {
+    letter-spacing: 0;
+    line-height: 67px;
+    min-height: 91px;
+    min-width: 718px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .screenshot-2022-01-03-204511 {
+    height: 151px;
+    margin-right: 35.46px;
+    margin-top: 195px;
+    object-fit: cover;
+    width: 447px;
+  }
+  
+  .screenshot-2022-01-03-205403 {
+    height: 143px;
+    margin-left: 73px;
+    object-fit: cover;
+    width: 427px;
+  }
+  
+  .group-5 {
+    align-items: flex-end;
+    align-self: flex-end;
+    background-color: var(--black);
+    display: flex;
+    height: 449px;
+    margin-top: 314px;
+    min-width: 1920px;
+    padding: 147.2px 224.0px;
+  }
+  
+  .ddqn {
+    letter-spacing: 0;
+    line-height: 93px;
+    min-height: 125px;
+    min-width: 272px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  @font-face {
+    font-family: "Alba-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/Alba-Regular") format("truetype");
+  }
+  @font-face {
+    font-family: "ScriptMT-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/ScriptMT-Bold");
+  }
+  @font-face {
+    font-family: "SegoeUI-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SegoeUI-Regular") format("truetype");
+  }

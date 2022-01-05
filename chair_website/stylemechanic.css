@@ -1,0 +1,380 @@
+.mechanic {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 10454px;
+    overflow: hidden;
+    width: 1920px;
+  }
+  
+  .mechanic .overlap-group1 {
+    align-items: flex-end;
+    align-self: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 259px;
+    margin-left: -22.5px;
+    min-width: 1943px;
+    padding: 59.5px 88.5px;
+  }
+  
+  .mechanic .icons8-home {
+    height: 132px;
+    object-fit: cover;
+    width: 132px;
+  }
+  
+  .mechanic .ai {
+    align-self: center;
+    height: 123px;
+    letter-spacing: 0;
+    line-height: 100px;
+    margin-bottom: 1.35px;
+    margin-left: 122px;
+    text-align: center;
+    width: 1257px;
+  }
+  
+  .mechanic .icons8-menu {
+    cursor: pointer;
+    height: 132px;
+    margin-left: 120px;
+    object-fit: cover;
+    width: 132px;
+  }
+  
+  .mechanic .aiapplication {
+    color: var(--black);
+    font-family: var(--font-family-android101-regular);
+    font-size: 182px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 182px;
+    margin-left: 68.0px;
+    margin-top: 629px;
+    min-height: 429px;
+    min-width: 1286px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .mechanic .group-10 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    margin-top: 478px;
+    min-height: 2857px;
+    width: 1920px;
+  }
+  
+  .mechanic .flex-row {
+    align-items: center;
+    display: flex;
+    margin-right: 16.0px;
+    min-width: 1739px;
+  }
+  
+  .mechanic .title {
+    -webkit-text-stroke: 1px var(--black);
+    height: 1049px;
+    letter-spacing: 0;
+    line-height: 200px;
+    width: 631px;
+  }
+  
+  .mechanic .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 59.92px;
+    margin-left: 41px;
+    min-height: 885px;
+    width: 1067px;
+  }
+  
+  .mechanic .screenshot-2022-01-03-204511 {
+    height: 174px;
+    margin-right: 0;
+    object-fit: cover;
+    width: 515px;
+  }
+  
+  .mechanic .overlap-group {
+    align-items: flex-end;
+    background-image: url(obj-graf-0000020859-xx-001-view-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 711px;
+    justify-content: flex-end;
+    min-width: 1067px;
+    padding: 49.4px 388.0px;
+  }
+  
+  .mechanic .gom-scan-1 {
+    -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-baskervilleold_face-regular);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 60px;
+    min-height: 71px;
+    min-width: 289px;
+    white-space: nowrap;
+  }
+  
+  .mechanic .we-use-the-gom-sca {
+    -webkit-text-stroke: 1px var(--black);
+    align-self: center;
+    color: var(--black);
+    font-family: var(--font-family-baskervilleold_face-regular);
+    font-size: var(--font-size-xxxs);
+    font-weight: 400;
+    height: 116px;
+    letter-spacing: 0;
+    line-height: 50px;
+    margin-left: 2.0px;
+    margin-top: 314px;
+    width: 1770px;
+  }
+  
+  .mechanic .istockphoto-1191538418-640_adpp_is {
+    height: 1080px;
+    margin-top: 298px;
+    object-fit: cover;
+    width: 1920px;
+  }
+  
+  .mechanic .group-11 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.0px;
+    margin-top: 504px;
+    min-height: 3146px;
+    width: 1807px;
+  }
+  
+  .mechanic .flex-col-1 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 1355px;
+    width: 1807px;
+  }
+  
+  .mechanic .ai-and-chair {
+    -webkit-text-stroke: 1px var(--black);
+    letter-spacing: 0;
+    line-height: 200px;
+    margin-left: 2.0px;
+    min-height: 202px;
+    text-align: center;
+    white-space: nowrap;
+    width: 1661px;
+  }
+  
+  .mechanic .rectangle-1 {
+    height: 1016px;
+    margin-top: 137px;
+    object-fit: cover;
+    width: 1807px;
+  }
+  
+  .mechanic .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 1587px;
+    margin-left: 11.0px;
+    margin-top: 204px;
+    min-width: 1768px;
+  }
+  
+  .mechanic .flex-col-2 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    min-height: 1540px;
+    width: 878px;
+  }
+  
+  .mechanic .ai-learns-the-user {
+    -webkit-text-stroke: 1px var(--black);
+    height: 915px;
+    letter-spacing: 0;
+    line-height: 44px;
+    margin-left: 1px;
+    width: 797px;
+  }
+  
+  .mechanic .chill {
+    height: 492px;
+    margin-top: 133px;
+    object-fit: cover;
+    width: 878px;
+  }
+  
+  .mechanic .flex-col-3 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-left: 23px;
+    min-height: 1450px;
+    width: 867px;
+  }
+  
+  .mechanic .picture1 {
+    height: 486px;
+    margin-right: 2.0px;
+    object-fit: cover;
+    width: 865px;
+  }
+  
+  .mechanic .picture2 {
+    height: 476px;
+    margin-right: 2.0px;
+    margin-top: 44px;
+    object-fit: cover;
+    width: 841px;
+  }
+  
+  .mechanic .moreover-our-ai-w {
+    -webkit-text-stroke: 1px var(--black);
+    height: 286px;
+    letter-spacing: 0;
+    line-height: 44px;
+    margin-top: 157px;
+    width: 843px;
+  }
+  
+  .mechanic .group-12 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 3.0px;
+    margin-top: 293px;
+    min-height: 778px;
+    width: 1759px;
+  }
+  
+  .mechanic .ai-tec-hnology {
+    -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-android101-regular);
+    font-size: var(--font-size-xs2);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 100px;
+    margin-right: 1.0px;
+    min-height: 102px;
+    text-align: center;
+    white-space: nowrap;
+    width: 1434px;
+  }
+  
+  .mechanic .ai-technology-is-dev {
+    -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-baskervilleold_face-regular);
+    font-size: var(--font-size-xxxxxs);
+    font-weight: 400;
+    height: 91px;
+    letter-spacing: 0;
+    line-height: 36px;
+    margin-top: 57px;
+    width: 1759px;
+  }
+  
+  .mechanic .azurebeg {
+    height: 471px;
+    margin-right: 2.0px;
+    margin-top: 57px;
+    object-fit: cover;
+    width: 837px;
+  }
+  
+  .mechanic .flex-row-2 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    height: 46px;
+    margin-right: 14px;
+    margin-top: 93px;
+    min-width: 1824px;
+  }
+  
+  .mechanic .back-to-home {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 33px;
+    min-height: 46px;
+    min-width: 246px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .mechanic .learn-more-about-production {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 33px;
+    margin-left: 1102px;
+    min-height: 46px;
+    min-width: 476px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .mechanic .group-5 {
+    align-items: flex-end;
+    background-color: var(--black);
+    display: flex;
+    height: 449px;
+    margin-left: 0;
+    margin-top: 496px;
+    min-width: 1920px;
+    padding: 147.2px 224.0px;
+  }
+  
+  .mechanic .ddqn {
+    letter-spacing: 0;
+    line-height: 93px;
+    min-height: 125px;
+    min-width: 272px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  @font-face {
+    font-family: "SegoeUI-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SegoeUI-Regular") format("truetype");
+  }
+  @font-face {
+    font-family: "BaskervilleOld Face-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/BaskervilleOldFace-Regular") format("truetype");
+  }
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
